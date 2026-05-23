@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💻 Full-stack developer specializing in MongoDB, Express.js, React.js, and Node.js
+🌱 Continuously learning advanced backend architecture and system design
+⚡ Interested in real-time applications, authentication systems, and scalable APIs
+🎯 Goal: Build impactful products and grow as a software engineer
+
 <!--
 **AkhilYeddu/AkhilYeddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
